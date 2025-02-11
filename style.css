@@ -981,7 +981,7 @@ body {
   line-height: 1.4em;
   text-align: center;
   font-family: 'Arial', sans-serif;
-  color: rgba(0, 0, 0, 0.479);
+  color: #000;
 }
 
 .title > h1 {
